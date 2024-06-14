@@ -1,6 +1,6 @@
 {
   "name": "@rasa2k/create-frontend-starter",
-  "version": "1.0.1",
+  "version": "1.0.22",
   "description": "create-frontend-starter",
   "bin": "./bin.cli.js",
   "type": "module",
@@ -13,14 +13,6 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": " https://github.com/rasa2k/create-frontend-starter"
-  },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -35,5 +27,23 @@
     "vite": "^5.3.1",
     "vite-plugin-checker": "^0.6.4",
     "vite-plugin-mkcert": "^1.17.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/rasa2k/create-frontend-starter"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "rasa2k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasa2k/create-frontend-starter/issues"
+  },
+  "homepage": "https://github.com/rasa2k/create-frontend-starter#readme"
 }
