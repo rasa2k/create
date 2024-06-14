@@ -1,7 +1,8 @@
 {
   "name": "@rasa2k/create-frontend-starter",
-  "private": true,
   "version": "0.0.1",
+  "description": "create-frontend-starter",
+  "bin": "./bin.cli.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
