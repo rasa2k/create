@@ -1,6 +1,6 @@
 {
   "name": "@rasa2k/create-frontend-starter",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "create-frontend-starter",
   "bin": "./bin.cli.js",
   "type": "module",
