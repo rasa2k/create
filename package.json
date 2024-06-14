@@ -1,5 +1,5 @@
 {
-  "name": "create-frontend-starter",
+  "name": "@rasa2k/create-frontend-starter",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -12,6 +12,14 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/rasa2k/create-frontend-starter"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
